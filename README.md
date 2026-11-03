@@ -13,5 +13,4 @@ Building things for the web, one commit at a time. 💻✨
 
 ---
 
-### 📊 GitHub Stats
-![Büşra's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-busra&show_icons=true&theme=radial)
+
