@@ -1,0 +1,82 @@
+[
+  {
+    "id": "hotel-pool",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-077736fb-feea-47e3-84a6-bfd2c85d505c.png",
+    "finalFile": "assets/photos/hotel-pool.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. A premium editorial hospitality photograph of an unbranded boutique coastal resort, quiet infinity pool with pale travertine decking, sculptural olive tree and restrained ivory loungers, contemporary Mediterranean stone architecture, calm sea visible beyond, early morning sunlight, realistic hotel architecture and water reflections. No people, no identifiable landmark or real hotel. Landscape 3:2 composition with subject safely inside the central 75 percent so portrait and square crops remain useful. High-end commercial editorial photography, natural texture, plausible geometry, restrained color grading. A single photograph only. No collage, no split panels, no captions, no text, no logos, no watermark, no signature. No imitation of an artist or existing advertisement."
+  },
+  {
+    "id": "hotel-suite",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-e55750b8-33d1-4143-9440-22eec1364c27.png",
+    "finalFile": "assets/photos/hotel-suite.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. An original unbranded boutique hotel suite, king bed with crisp ivory linen, walnut bed frame, subtle olive cushions, textured limestone plaster walls, contemporary brass bedside lamps, floor-to-ceiling curtains, a glimpse of a sea-view terrace, naturally inviting and realistic, no people or identifiable hotel. Landscape 3:2 framing, subject inside central 75 percent to support square and portrait crops. High-end professional commercial editorial photography, natural material texture and accurate perspective. A single photograph only, no collage, no split panels, no readable text, no logos, no watermark or signature. Do not imitate an existing advertisement or artist."
+  },
+  {
+    "id": "tour-coast",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-01fc2639-b6e1-4c8d-9526-8eb078d4b9c8.png",
+    "finalFile": "assets/photos/tour-coast.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. A sophisticated travel agency brochure photograph of a quiet Mediterranean turquoise bay, a small traditional wooden excursion boat without names or markings anchored near limestone cliffs and pine trees, distant horizon, beautiful clear summer daylight, realistic water and natural coastline. No identifiable resort or property, no people. Landscape 3:2 composition with subject safely inside the central 75 percent so portrait and square crops remain useful. High-end commercial editorial photography, natural texture, plausible geometry, restrained color grading. A single photograph only. No collage, no split panels, no captions, no text, no logos, no watermark, no signature. No imitation of an artist or existing advertisement."
+  },
+  {
+    "id": "tour-valley",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-d7a86e75-0365-478f-9eee-3daf35c6575c.png",
+    "finalFile": "assets/photos/tour-valley.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. An original premium travel editorial photograph of Cappadocia-like volcanic rock valleys at sunrise, a few modest hot-air balloons high in the distant sky, layered ochre stone and naturally hazy pastel horizon, peaceful authentic landscape, no identifiable buildings, no people or trademarks. Landscape 3:2 framing, subject inside central 75 percent to support square and portrait crops. High-end professional commercial editorial photography, natural material texture and accurate perspective. A single photograph only, no collage, no split panels, no readable text, no logos, no watermark or signature. Do not imitate an existing advertisement or artist."
+  },
+  {
+    "id": "pilates-studio",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-e3d3469e-1a68-4829-9aef-955fb5e20425.png",
+    "finalFile": "assets/photos/pilates-studio.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. A professional interiors photograph of an elegant boutique reformer Pilates studio with three mechanically plausible unbranded wooden reformer machines neatly aligned, warm oak floors, softly curved plaster wall, sheer curtains with diffuse natural daylight, sage and sand upholstery, tasteful minimal equipment. No people, realistic proportions and clear equipment details. Landscape 3:2 composition with subject safely inside the central 75 percent so portrait and square crops remain useful. High-end commercial editorial photography, natural texture, plausible geometry, restrained color grading. A single photograph only. No collage, no split panels, no captions, no text, no logos, no watermark, no signature. No imitation of an artist or existing advertisement."
+  },
+  {
+    "id": "pilates-detail",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-9a43a1ea-0384-487c-bd21-40941d39923e.png",
+    "finalFile": "assets/photos/pilates-detail.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. An original professional close-up commercial photograph of an unbranded wooden Pilates reformer carriage, sage upholstered shoulder rests and handles, neatly tensioned black ropes and metal spring assembly, clean boutique studio with warm oak floor and soft window light, mechanically plausible realistic equipment, no people. Landscape 3:2 framing, subject inside central 75 percent to support square and portrait crops. High-end professional commercial editorial photography, natural material texture and accurate perspective. A single photograph only, no collage, no split panels, no readable text, no logos, no watermark or signature. Do not imitate an existing advertisement or artist."
+  },
+  {
+    "id": "meeting-boardroom",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-1574004c-ab88-40a7-a3d9-0587ae55f931.png",
+    "finalFile": "assets/photos/meeting-boardroom.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. A professional architectural photograph of a premium contemporary corporate boardroom, long natural oak meeting table, eight neatly arranged upholstered chairs, closed unbranded notebooks and water carafes, large blank presentation screen, tall windows with soft city daylight, muted charcoal blue and warm wood interior. No people, no logos or writing. Landscape 3:2 composition with subject safely inside the central 75 percent so portrait and square crops remain useful. High-end commercial editorial photography, natural texture, plausible geometry, restrained color grading. A single photograph only. No collage, no split panels, no captions, no text, no logos, no watermark, no signature. No imitation of an artist or existing advertisement."
+  },
+  {
+    "id": "meeting-auditorium",
+    "date": "2026-11-04",
+    "tool": "built-in image_gen.imagegen",
+    "referenceImages": false,
+    "generatedFile": "exec-810f9365-e84f-44c0-a9ba-e292db27078f.png",
+    "finalFile": "assets/photos/meeting-auditorium.jpg",
+    "transformation": "JPEG encoding at quality 88; original dimensions and composition retained",
+    "prompt": "Use case: ads-marketing. Asset type: original photorealistic photograph for editable business campaign templates; not a finished poster. An original professional architectural photograph of a contemporary boutique conference venue, rows of neatly aligned charcoal upholstered chairs, warm wood stage and a large completely blank white projection screen, subtle ceiling lighting, refined navy and walnut palette, credible business event space, no people, no logos or signs. Landscape 3:2 framing, subject inside central 75 percent to support square and portrait crops. High-end professional commercial editorial photography, natural material texture and accurate perspective. A single photograph only, no collage, no split panels, no readable text, no logos, no watermark or signature. Do not imitate an existing advertisement or artist."
+  }
+]

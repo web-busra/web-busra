@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "assets": [
+    {
+      "file": "assets/photos/hotel-pool.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 434350,
+      "sha256": "ce141fb39172c9b980742999c3ef533aa2e23ffa4a095a6a1bb2b4a728600f3d",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/hotel-suite.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 380267,
+      "sha256": "2da4a734bbd466d8c1c0be28d4e194b984ae553b566fa22a9e8bc4e51847cfeb",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/tour-coast.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 554625,
+      "sha256": "39febeeb105ffcda3e1b466687d18b488eebcff93bbbfde486b67efbdbd3c706",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/tour-valley.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 326083,
+      "sha256": "525acbf81b188342ee7accbf87e774cbf199469915a2e60281016ded99b47b36",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/pilates-studio.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 342599,
+      "sha256": "3cfcf37a7f31f75eb3071060f4b911a32256c91213168d8659bc1dfd437c6bec",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/pilates-detail.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 249768,
+      "sha256": "c8e8afbf35be0cf23764e5ff98a2ddbab5939f5917f2234ce3f4c37754b3ddd0",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/meeting-boardroom.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 305713,
+      "sha256": "9e56e08a94f00b6a5a3e9c1e53e644bd9aaee24d4498edce973c4b9da357c5bd",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/meeting-auditorium.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 299744,
+      "sha256": "d8552df6eedea8b3e3924b424333d72957462a9b1d5dc05a9023f0098a8d6d07",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/estate-villa.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 535997,
+      "sha256": "33145c7c031c14e37fcb0d8db6259f2e2fbb44005496d58bd28cc871af656d7a",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/estate-interior.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 343197,
+      "sha256": "f8c9d8a4bda4f32c99daea07cd2996b994624a7d28d4849db9db7bb193db7ee9",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/hair-brunette.jpg",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 277886,
+      "sha256": "7bf98a70e35ab1bf328866ec9da1d16e5f554e19af44b1607520587af090d355",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/hair-blonde.jpg",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 289674,
+      "sha256": "fec0ae5155c55835d31e278e45aa52113e23511dd30027cf2b30f474eb3f527f",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/beauty-facial.jpg",
+      "width": 1024,
+      "height": 1535,
+      "bytes": 192862,
+      "sha256": "715ab3c6ad2ba0dfb04d374c0d374ff2c167e45aa8234fbe55bf136affb788d3",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/beauty-products.jpg",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 253019,
+      "sha256": "e417d5ca880a5404e3b23211212b0f0c9c425488801c6b7579da6e2af5332af2",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/auto-sedan.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 304230,
+      "sha256": "6aeebfd65205600f1ed36efddc822248c54b756f40d0eb1bf761e22d395e7ae6",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "file": "assets/photos/auto-detail.jpg",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 299262,
+      "sha256": "fb448ec2698fed1f8ad9f70817f7062ae783eb4dde1dc161017a284c61226bd3",
+      "origin": "AI-generated sample asset; provenance in docs/ASSETS.md",
+      "license": "See THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

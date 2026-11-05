@@ -1,0 +1,10 @@
+{
+  "version": "6.0.1",
+  "generatedAtUtc": "2026-11-05T19:56:34.500Z",
+  "scope": "Static release source and asset checks; not a penetration test, browser audit or legal clearance",
+  "releaseFiles": 80,
+  "scannedTextFiles": 59,
+  "scannedWorkflowFiles": 1,
+  "verifiedPhotoAssets": 16,
+  "findings": []
+}

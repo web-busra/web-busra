@@ -1,0 +1,12 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {resolve} from 'node:path';
+import {zipFiles} from '../src/export.js';
+import {projectFiles} from './project-files.mjs';
+import {auditProject} from './audit.mjs';
+const root=resolve(import.meta.dirname,'..');
+const names=await projectFiles(root),audit=await auditProject(root,names);
+if(audit.findings.length)throw Error('Güvenlik denetimi tamamlanmadan paket oluşturulamaz. npm run audit ile bulguları incele.');
+const files=await Promise.all([...new Set(names)].sort().map(async name=>({name,data:new Uint8Array(await readFile(resolve(root,name)))})));
+const archive=await zipFiles(files),target=resolve(root,'forma-design-studio-github.zip');
+await writeFile(target,new Uint8Array(await archive.arrayBuffer()));
+console.log(files.length+' dosya paketlendi: '+target+' ('+(archive.size/1024/1024).toFixed(2)+' MB)');
